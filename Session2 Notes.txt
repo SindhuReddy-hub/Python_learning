@@ -1,0 +1,63 @@
+compilor: will take all the code as one line and start running so execution is fast
+
+print("hi")
+print("123") both lines run at one
+
+Features of Python:
+
+1. Interpreted language: means executed line by line instead of block which reults on delay in execution
+
+example: print("hi")
+prnt("123") single lines run at one
+
+
+ouput: 
+hi
+Nameerror: name prnt is not defined
+
+2. Dynamically type: we no need to specify the data type before using any data
+
+example: sindhu
+other lannguages: str sindhu
+
+
+3. Cross platform language: used in multiple platforms(OS) like windows, mac,linus
+
+4. General Purpose Language: used python with any other technology(integrate with any other languages like vb script, R, sql,ML)
+
+
+
+String --- collections of characters
+
+single letter is not a string 
+
+variable ----container (example waterbottle store something)
+
+a=10
+
+
+**************
+
+Variable can start with underscore (_) symbol
+_var=100
+
+we cannot start a number with variable
+
+2var=100
+
+invalid syntax
+
+var2=800
+
+no error
+
+
+We cannot give spaces between two words in a variables
+
+abd def=100
+
+wrong
+
+correct: abc_def or abcdef
+
+

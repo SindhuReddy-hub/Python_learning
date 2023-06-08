@@ -1,0 +1,3 @@
+Single and double quotes can be used in the python
+
+Type function will the type of the datatype
